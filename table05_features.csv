@@ -1,0 +1,16 @@
+Feature_Number,Feature
+1,Month
+2,Quarter
+3,Month_Sin
+4,Month_Cos
+5,Trend
+6,Lag_1
+7,Lag_3
+8,Lag_6
+9,Lag_12
+10,Roll_Mean_3
+11,Roll_Std_3
+12,Roll_Mean_6
+13,Roll_Std_6
+14,Roll_Mean_12
+15,Roll_Std_12
